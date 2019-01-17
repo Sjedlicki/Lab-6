@@ -1,0 +1,7 @@
+C:\git\Lab 6\Lab 6\obj\Debug\Lab 6.csprojAssemblyReference.cache
+C:\git\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+C:\git\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+C:\git\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+C:\git\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+C:\git\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+C:\git\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
